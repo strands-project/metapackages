@@ -10,7 +10,7 @@
 
   <buildtool_depend>catkin</buildtool_depend>
 
-  <run_depend>scitos_mira</run_depend>
+  <!-- <run_depend>scitos_mira</run_depend> -->
   <run_depend>strands_navigation</run_depend>
 
   <run_depend>strands-ui</run_depend>
