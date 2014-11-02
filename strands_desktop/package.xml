@@ -12,7 +12,7 @@
 
   <run_depend>strands_morse</run_depend>
   <run_depend>strands_navigation</run_depend>
-  <run_depend>morse-blender-2.65-py-3.3</run_depend>
+  <run_depend>morse-blender-bundle</run_depend>
 
   <run_depend>strands_ui</run_depend>
   <run_depend>strands_perception_people</run_depend>
