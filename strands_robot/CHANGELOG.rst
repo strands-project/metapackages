@@ -2,8 +2,8 @@
 Changelog for package strands_robot
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.2 (2014-11-05)
+------------------
 * added more packages
 * changed - to _
 * made it STRANDS specific

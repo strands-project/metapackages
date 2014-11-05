@@ -2,8 +2,8 @@
 Changelog for package strands_desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.2 (2014-11-05)
+------------------
 * corretc morse rosdep key
 * changed - to _
 * made it STRANDS specific
