@@ -2,8 +2,8 @@
 Changelog for package strands_robot
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.4 (2014-11-07)
+------------------
 * Added task_executor to metapackages.
 * Contributors: Nick Hawes
 
