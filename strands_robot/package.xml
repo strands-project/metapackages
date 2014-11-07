@@ -27,6 +27,8 @@
   <run_depend>strands_hri</run_depend>
   <run_depend>strands_webtools</run_depend>
   <run_depend>strands_social</run_depend>
+  <run_depend>task_executor</run_depend>
+
 
   <export>
     <metapackage/>
