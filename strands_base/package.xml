@@ -10,6 +10,8 @@
 
   <buildtool_depend>catkin</buildtool_depend>
 
+  <run_depend>strands_bringup</run_depend>
+  
   <run_depend>strands_navigation</run_depend>
   <run_depend>strands_movebase</run_depend>
   <run_depend>strands_apps</run_depend>
