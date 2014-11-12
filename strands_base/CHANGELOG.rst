@@ -2,8 +2,8 @@
 Changelog for package strands_base
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.6 (2014-11-12)
+------------------
 * added strands_bringup
 * Contributors: Marc Hanheide
 
