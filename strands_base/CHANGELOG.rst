@@ -2,6 +2,11 @@
 Changelog for package strands_base
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* added strands_bringup
+* Contributors: Marc Hanheide
+
 0.0.5 (2014-11-10)
 ------------------
 * added base package addressing `#2 <https://github.com/strands-project/metapackages/issues/2>`_

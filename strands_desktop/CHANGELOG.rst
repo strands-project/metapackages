@@ -2,6 +2,9 @@
 Changelog for package strands_desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.0.4 (2014-11-07)
 ------------------
 * Added task_executor to metapackages.
