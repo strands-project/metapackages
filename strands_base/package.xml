@@ -26,6 +26,7 @@
   <run_depend>strands_social</run_depend>
 
   <run_depend>task_executor</run_depend>
+  <run_depend>routine_behaviours</run_depend>
 
   <export>
     <metapackage/>
