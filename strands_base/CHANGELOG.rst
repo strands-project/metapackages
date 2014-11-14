@@ -2,8 +2,8 @@
 Changelog for package strands_base
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.7 (2014-11-14)
+------------------
 * Added routine_behaviours to the metapackage.
 * Contributors: Nick Hawes
 
