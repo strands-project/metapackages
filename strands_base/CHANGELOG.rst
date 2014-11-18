@@ -2,8 +2,8 @@
 Changelog for package strands_base
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.8 (2014-11-18)
+------------------
 * [strands_base] Added strands_recovery_behaviours
 * Contributors: Christian Dondrup
 
