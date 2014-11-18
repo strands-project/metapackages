@@ -2,6 +2,11 @@
 Changelog for package strands_base
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* [strands_base] Added strands_recovery_behaviours
+* Contributors: Christian Dondrup
+
 0.0.7 (2014-11-14)
 ------------------
 * Added routine_behaviours to the metapackage.
