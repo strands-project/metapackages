@@ -12,7 +12,7 @@
 
   <!-- simulation -->
   <run_depend>strands_morse</run_depend>
-  <run_depend>morse-blender-bundle</run_depend>
+  <run_depend>strands-morse-simulator</run_depend>
 
   <run_depend>strands_base</run_depend>
 
