@@ -2,8 +2,8 @@
 Changelog for package strands_robot
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.9 (2015-01-21)
+------------------
 * Merge branch 'hydro-devel' into indigo-devel
 * disabled mira as not releaased for indigo yet
 * Contributors: Marc Hanheide
