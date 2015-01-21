@@ -2,6 +2,11 @@
 Changelog for package strands_desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Fix morse run_depend.
+* Contributors: Chris Burbridge
+
 0.0.8 (2014-11-18)
 ------------------
 
