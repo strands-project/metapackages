@@ -16,6 +16,7 @@
   <run_depend>sicks300</run_depend>
 
   <run_depend>strands_base</run_depend>
+  <run_depend>strands_extras</run_depend>
 
   <export>
     <metapackage/>
