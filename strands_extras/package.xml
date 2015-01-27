@@ -1,23 +1,19 @@
+<?xml version="1.0"?>
 <package>
-  <name>strands_desktop</name>
-  <version>0.0.9</version>
+  <name>strands_extras</name>
+  <version>0.0.8</version>
   <description>A metapackage to aggregate several packages.</description>
   <maintainer email="marc@hanheide.net">Marc Hanheide</maintainer>
   <license>MIT</license>
 
   <url type="repository">https://github.com/strands-project/metapackages</url>
   <url type="bugtracker">https://github.com/strands-project/metapackages/issues</url>
-
+  
   <buildtool_depend>catkin</buildtool_depend>
-
-  <!-- simulation -->
-  <run_depend>strands_morse</run_depend>
-  <run_depend>strands-morse-simulator</run_depend>
-
-  <run_depend>strands_base</run_depend>
-  <run_depend>strands_extras</run_depend>
+  
+  <run_depend>strands_qsr_lib</run_depend>
 
   <export>
-    <metapackage/>
+    <metapackage/> 
   </export>
 </package>
