@@ -2,15 +2,15 @@
 Changelog for package strands_desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.10 (2015-01-27)
+-------------------
+* Revert "Fix morse run_depend." as it's not valid for hydro"
+  This reverts commit 07af84abc91d079dfc7ee8c14ad71e36ec01879f.
 * Adding a strands_extras metapackage
   Currently this only contains strands_qsr_lib but since this did not feel like being part of a base system, I created this extras package which might become more populated and some of the packages from base could maybe moved here as well.
-* Contributors: Christian Dondrup
-
 * Adding a strands_extras metapackage
   Currently this only contains strands_qsr_lib but since this did not feel like being part of a base system, I created this extras package which might become more populated and some of the packages from base could maybe moved here as well.
-* Contributors: Christian Dondrup
+* Contributors: Christian Dondrup, Marc Hanheide
 
 0.0.9 (2015-01-21)
 ------------------
