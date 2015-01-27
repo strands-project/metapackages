@@ -2,6 +2,16 @@
 Changelog for package strands_robot
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Adding a strands_extras metapackage
+  Currently this only contains strands_qsr_lib but since this did not feel like being part of a base system, I created this extras package which might become more populated and some of the packages from base could maybe moved here as well.
+* Contributors: Christian Dondrup
+
+* Adding a strands_extras metapackage
+  Currently this only contains strands_qsr_lib but since this did not feel like being part of a base system, I created this extras package which might become more populated and some of the packages from base could maybe moved here as well.
+* Contributors: Christian Dondrup
+
 0.0.9 (2015-01-21)
 ------------------
 * Merge branch 'hydro-devel' into indigo-devel
