@@ -2,8 +2,8 @@
 Changelog for package strands_desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.10 (2015-01-27)
+-------------------
 * Revert "Fix morse run_depend." as it's not valid for hydro"
   This reverts commit 07af84abc91d079dfc7ee8c14ad71e36ec01879f.
 * Adding a strands_extras metapackage
