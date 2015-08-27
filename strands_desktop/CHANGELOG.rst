@@ -2,6 +2,9 @@
 Changelog for package strands_desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.0.10 (2015-01-27)
 -------------------
 * Revert "Fix morse run_depend." as it's not valid for hydro"
