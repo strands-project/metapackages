@@ -19,6 +19,8 @@
   <run_depend>strands_ui</run_depend>
   <run_depend>strands_perception_people</run_depend>
   <run_depend>strands_hri</run_depend>
+  <run_depend>semantic_map_launcher</run_depend>
+  <run_depend>metaroom_xml_parser</run_depend>
   
   <run_depend>scitos_apps</run_depend>
   <run_depend>scitos_common</run_depend>
