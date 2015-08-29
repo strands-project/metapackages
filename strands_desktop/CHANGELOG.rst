@@ -2,6 +2,9 @@
 Changelog for package strands_desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.0.12 (2015-08-27)
 -------------------
 
