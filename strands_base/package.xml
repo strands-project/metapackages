@@ -30,6 +30,8 @@
 
   <run_depend>task_executor</run_depend>
   <run_depend>routine_behaviours</run_depend>
+  
+  <run_depend>v4r_ros_wrappers</run_depend>
 
   <export>
     <metapackage/>
