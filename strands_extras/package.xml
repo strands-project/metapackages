@@ -12,6 +12,7 @@
   <buildtool_depend>catkin</buildtool_depend>
   
   <run_depend>strands_qsr_lib</run_depend>
+  <run_depend>v4r_ros_wrappers</run_depend>
 
   <export>
     <metapackage/> 
