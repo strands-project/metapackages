@@ -2,6 +2,11 @@
 Changelog for package strands_extras
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* added v4r_ros_wrappers
+* Contributors: Marc Hanheide
+
 0.0.13 (2015-08-29)
 -------------------
 
