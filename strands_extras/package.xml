@@ -14,6 +14,10 @@
   <run_depend>strands_qsr_lib</run_depend>
   <run_depend>v4r_ros_wrappers</run_depend>
 
+  <!-- For object search -->
+  <run_depend>scitos_moveit_config</run_depend>
+  <run_depend>viper_ros</run_depend>
+
   <export>
     <metapackage/> 
   </export>
